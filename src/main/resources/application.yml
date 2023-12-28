@@ -16,10 +16,3 @@ spring:
     properties:
       hibernate:
         dialect: org.hibernate.dialect.SQLServerDialect
-  # ViewResolver
-  # i18n
-  messages:
-    basename: i18n.Messages
-    encoding: UTF-8
-    fallback-to-system-locale: false
-  # profiles:
